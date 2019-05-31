@@ -12,7 +12,7 @@ This is some text
     <div>
         {{ post.content }}
         </div>
-             {% include tags.html %}
+            
   </li>
 {% endfor %}
 </ul>
