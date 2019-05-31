@@ -7,7 +7,7 @@
     min-height: 56px;
     background: $clemson-blue;
     // Positioning context for the mobile navigation icon
-    position: relative;
+   /* position: relative;*/
 
 }
 
@@ -74,7 +74,7 @@
 }
 
 /* Sub Menu */
-
+/*
 .site-nav .sub-menu a {
 	display: block;
 	font-weight: normal;
@@ -107,7 +107,7 @@ color: #522d80;
 .sub-menu {
 	border: 3px solid transparent;
 	border-top: 0;
-	/* bg and border colors set in header */
+	/* bg and border colors set in header 
 	box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-moz-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 2px 2px rgba(0,0,0,0.4);
