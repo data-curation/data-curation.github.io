@@ -1,0 +1,29 @@
+# Site settings
+title: Canadian Data Curation Forum
+#email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://data-curation.github.io" # the base hostname & protocol for your site
+#twitter_username: 
+github_username:  data-curation
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+# Other options
+excerpt_separator: "<!--more-->"
+
+# SEO stuff
+# google_author: ""
+# google_site_verification: ""
+# bing_webmastertools_id: ""
