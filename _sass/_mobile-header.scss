@@ -21,7 +21,7 @@
 		/* Hide until activated */
 		display: block;
 		left: -3px;
-		min-width: 215px;
+		min-width: 200px;
 /*		margin-top: 36px; */
 		padding: 4px 0;   
 		position: relative;
@@ -48,7 +48,7 @@
 
 .site-nav a,
 	.site-nav li.current-menu-item > a {
-		padding: 4px 10px;
+		padding: 4px 5px;
 	}
 
 .site-nav .menu > li {
