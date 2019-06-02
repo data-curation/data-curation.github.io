@@ -80,7 +80,7 @@
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit / 2;
 }
 
 .contact-list,
@@ -144,11 +144,12 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0; 
+    padding: $spacing-unit 0;
+    flex: 1 0 auto;
 }
 
 .page-heading {
-    font-size: 20px;
+    @include relative-font-size(1.75);
 }
 
 .post-list {
