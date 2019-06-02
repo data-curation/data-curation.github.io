@@ -7,7 +7,7 @@ layout: default
   <li class="listing-item">
    <p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} | {{ post.date | date: "%B %-d, %Y" }}</a></p>
     <div>
-        {{ post.excerpt }}<a class="exerpt" href="{{ site.baseurl }}{{ post.url }}"> Keep reading...</a>
+        {{ post.excerpt }}<a class="excerpt" href="{{ site.baseurl }}{{ post.url }}"> Keep reading...</a>
     </div>
   </li>
 
