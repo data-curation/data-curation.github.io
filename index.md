@@ -10,6 +10,6 @@ layout: default
         {{ post.content }}
     </div>
   </li>
-<hr />
+
 {% endfor %}
 </ul>
