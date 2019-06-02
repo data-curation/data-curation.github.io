@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<h1 class="post-title">News</h1>
 
 <ul class="listing">
 {% for post in site.posts %}
