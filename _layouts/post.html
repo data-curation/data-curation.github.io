@@ -5,7 +5,7 @@ layout: default
 
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
-    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }} by {% if page.author %} {{ page.author }}{% endif %}  
+    <p class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}{% endif %}  
 {% if page.categories %}
   in
   {% for cat in page.categories %}
