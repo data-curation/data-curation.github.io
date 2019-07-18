@@ -1,4 +1,8 @@
-# Program
+---
+layout: page
+title: Program
+permalink: /program/
+---
 
 ## Wednesday, 16-October, 2019
 
