@@ -40,7 +40,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     </tr>
     <tr>
 	 <td>1200 - 1300</td>
-	 <td> colspan="2"><strong>Lunch (provided)</td>
+	    <td> colspan="2"><strong>Lunch (provided)</strong></td>
     </tr>
     <tr>	
 	<td>1300 - 1600</td>
