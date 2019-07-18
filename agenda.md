@@ -10,13 +10,13 @@ permalink: /agenda/
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 <table>
-<thead>
+  <thead>
     <tr>
 	<th>Time</th>
 	<th>Speaker(s)</th>
 	<th>Event</th>
     </tr>
-</thead>
+  </thead>
 	
 <tbody>
     <tr>
