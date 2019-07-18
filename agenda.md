@@ -55,6 +55,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     
 ## Day 2: Thursday, 17-October, 2019
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
+
 <table>
   <thead>
     <tr>
@@ -63,7 +64,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<th>Presenter(s)</th>
     </tr>
   </thead>	
-<tbody>
+  <tbody>
     <tr>
 	<td>0830-0900</td>
 	<td colspan="2"><strong>Breakfast</strong></td>
@@ -87,6 +88,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 </table>
 
 ## Community Building Forum
+
 ### Day 1: Thursday, 17-October, 2019
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
