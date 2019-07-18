@@ -20,7 +20,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 <tbody>
     <tr>
 	<td>0830-0900</td>
-	    <td colspan="2"><strong>Registration & Breakfast</strong></td>
+	<td colspan="2"><strong>Registration & Breakfast</strong></td>
     </tr>
     <tr>
         <td>0900 - 0910</td>
