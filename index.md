@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1 class="post-title">Canadian Data Curation Forum</h1>
-## October 16-18, 2019, Hamilton ON
+October 16-18, 2019, Hamilton ON
 
 
 
