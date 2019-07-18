@@ -16,8 +16,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<th>Speaker(s)</th>
 	<th>Event</th>
     </tr>
-  </thead>
-	
+  </thead>	
 <tbody>
     <tr>
 	<td>0830-0900</td>
@@ -25,9 +24,9 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<td>Registration & Breakfast</td>
     </tr>
     <tr>
-      <td>0900 - 0910</td>
-      <td>Lee Wilson & Jay Brodeur</td>
-      <td>Welcome & Introduction</td>
+        <td>0900 - 0910</td>
+        <td>Lee Wilson & Jay Brodeur</td>
+        <td>Welcome & Introduction</td>
     </tr>
     <tr>
     	<td>0915 - 1145</td>
@@ -52,7 +51,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<td></td>
     	<td>Workshop 2b: CuratingData for Reproducibility</td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
-    </tr>    
+    </tr>
   </tbody>
 </table>
     
