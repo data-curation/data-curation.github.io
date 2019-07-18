@@ -51,7 +51,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     	<td>Workshop 2b: CuratingData for Reproducibility</td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
     </tr>
-  </tbody>
+</tbody>
 </table>
     
 ### Day 2: Thursday, 17-October, 2019
