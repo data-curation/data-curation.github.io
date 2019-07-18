@@ -4,10 +4,8 @@ title: Agenda
 permalink: /agenda/
 ---
 
-
-
-## Wednesday, 16-October, 2019
-### Training Workshops, Day 1
+## Training Event
+### Day 1: Wednesday, 16-October, 2019
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 <table>
@@ -55,8 +53,8 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
   </tbody>
 </table>
     
-## Thursday, 17-October, 2019
-### Training Workshops, Day 2
+## Day 2: Thursday, 17-October, 2019
+Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 <table>
   <thead>
     <tr>
@@ -87,10 +85,12 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     </tr>
   </tbody>
 </table>
-### Community Building Workshop, Day 1
 
+## Community Building Forum
+### Day 1: Thursday, 17-October, 2019
+Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
-## Friday, 18-October, 2019
+### Day 2: Friday, 18-October, 2019
 
 <!--   
       <td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
