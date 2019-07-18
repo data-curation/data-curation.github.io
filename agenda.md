@@ -5,8 +5,9 @@ permalink: /agenda/
 ---
 
 ## Training Event
-### Day 1: Wednesday, 16-October, 2019
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
+
+### Day 1: Wednesday, 16-October, 2019
 
 <table>
   <thead>
@@ -54,7 +55,6 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 </table>
     
 ### Day 2: Thursday, 17-October, 2019
-Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 <table>
   <thead>
@@ -88,9 +88,9 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 </table>
 
 ## Community Building Forum
+Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Thursday, 17-October, 2019
-Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 2: Friday, 18-October, 2019
 
