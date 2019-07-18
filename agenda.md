@@ -11,23 +11,24 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 
 <table>
 	<thead>
-		<tr>
-			<th>Time</th>
-			<th>Speaker(s)</th>
-			<th>Event</th>
-		</tr>
+    <tr>
+	<th>Time</th>
+	<th>Speaker(s)</th>
+	<th>Event</th>
+    </tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td>0830-0900</td>
-			<td></td>
-			<td>Registration & Breakfast</td>
-		</tr>
-		<tr>
-			<td>0900-0910</td>
-      <td>Lee Wilson &amp Jay Brodeur</td>
-      <td>Welcome &amp Introduction</td>
+    <tr>
+	<td>0830-0900</td>
+	<td></td>
+	<td>Registration & Breakfast</td>
+    </tr>
+    <tr>
+      <td>0900-0910</td>
+      <td>Lee Wilson & Jay Brodeur</td>
+      <td>Welcome & Introduction</td>
       </tr>
+    <tr>
     <td>0915 - 1145</td>
     <td>Workshop 1a: Introduction to R for Social Scientists</td>
     <td>ACENET</td>
