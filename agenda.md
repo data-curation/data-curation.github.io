@@ -1,5 +1,12 @@
+---
+layout: page
+title: Agenda
+permalink: /agenda/
+---
 
-# Wednesday, 16-October, 2019
+
+
+## Wednesday, 16-October, 2019
 | Time  | Event  | Speakers  | Location |
 |:-:|:-:|:-:|:-:|
 |   |   |   |   |
@@ -7,7 +14,7 @@
 |   |   |   |   |
 
 
-# Thursday, 17-October, 2019
+## Thursday, 17-October, 2019
 | Time  | Event  | Speakers  | Location |
 |:-:|:-:|:-:|:-:|
 |   |   |   |   |
@@ -15,7 +22,7 @@
 |   |   |   |   |
 
 
-# Friday, 18-October, 2019
+## Friday, 18-October, 2019
 | Time  | Event  | Speakers  | Location |
 |:-:|:-:|:-:|:-:|
 |   |   |   |   |
