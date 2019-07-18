@@ -7,6 +7,7 @@ permalink: /agenda/
 
 
 ## Wednesday, 16-October, 2019
+### Training Workshops, Day 1
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 <table>
@@ -55,6 +56,39 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 </table>
     
 ## Thursday, 17-October, 2019
+### Training Workshops, Day 2
+<table>
+  <thead>
+    <tr>
+	<th>Time</th>
+	<th>Event</th>
+	<th>Presenter(s)</th>
+    </tr>
+  </thead>	
+<tbody>
+    <tr>
+	<td>0830-0900</td>
+	<td colspan="2"><strong>Breakfast</strong></td>
+    </tr>
+    <tr>
+    	<td>0900 - 1130</td>
+    	<td>Workshop 3a: The DCN CURATE Model</td>
+    	<td>Lisa Johnston & Cynthia Hudson Vitale</td>
+    </tr>
+    <tr>
+    	<td></td>
+    	<td>Workshop 3b: Curating Data in Repositories</td>
+    	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, & Brad Covey</td>
+    </tr>
+    <tr>
+	 <td>1130 - 1200</td>
+	 <td>Wrap-up & Closing Remarks</td>
+    	 <td>Lee Wilson & Jay Brodeur</td>
+    </tr>
+  </tbody>
+</table>
+### Community Building Workshop, Day 1
+
 
 ## Friday, 18-October, 2019
 
