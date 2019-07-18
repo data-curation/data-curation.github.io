@@ -13,20 +13,19 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
   <thead>
     <tr>
 	<th>Time</th>
-	<th>Speaker(s)</th>
 	<th>Event</th>
+	<th>Presenter(s)</th>
     </tr>
   </thead>	
 <tbody>
     <tr>
 	<td>0830-0900</td>
-	<td></td>
-	<td>Registration & Breakfast</td>
+	    <td colspan="2"><strong>Registration & Breakfast</strong></td>
     </tr>
     <tr>
         <td>0900 - 0910</td>
-        <td>Lee Wilson & Jay Brodeur</td>
         <td>Welcome & Introduction</td>
+	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
     	<td>0915 - 1145</td>
