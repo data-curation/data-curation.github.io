@@ -25,7 +25,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<td>Registration & Breakfast</td>
     </tr>
     <tr>
-      <td>0900-0910</td>
+      <td>0900 - 0910</td>
       <td>Lee Wilson & Jay Brodeur</td>
       <td>Welcome & Introduction</td>
     </tr>
@@ -34,7 +34,25 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     	<td>Workshop 1a: Introduction to R for Social Scientists</td>
     	<td>ACENET</td>
     </tr>
-    
+    <tr>
+    	<td></td>
+    	<td>Workshop 1b: Making Ethical and Effective Data Management Work for You!</td>
+    	<td>Chandra Kavanagh & James Doiron</td>
+    </tr>
+    <tr>
+	 <td>1200 - 1300</td>
+	 <td colspan="2"><strong>Lunch (provided)</td>
+    </tr>
+    <tr>	
+	<td>1300 - 1600</td>
+    	<td>Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github</td>
+    	<td>Lee Wilson & Jay Brodeur</td>
+    </tr>
+    <tr>	
+	<td></td>
+    	<td>Workshop 2b: CuratingData for Reproducibility</td>
+    	<td>Sandra Sawchuk & Shahira Khair</td>
+    </tr>    
   </tbody>
 </table>
     
