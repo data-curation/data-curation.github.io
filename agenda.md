@@ -6,7 +6,7 @@ permalink: /agenda/
 
 <a href="../agenda#data-curation-training-event"><font size="6">Training Event</font></a>  
 
-<a href="../agenda#community-building-forum"><font size="6">Community-Building Forum</BIG></font>
+<a href="../agenda#community-building-forum"><font size="6">Community-Building Forum</font></a>
 
 ## <a name="data-curation-training-event"></a>Data Curation Training Event
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
