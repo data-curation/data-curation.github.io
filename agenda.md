@@ -4,8 +4,9 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<a href="../agenda#data-curation-training-event"><fontsize="4">Training Event</fontsize></a>
-<a href="../agenda#community-building-forum"><fontsize="4">Community-Building Forum</BIG></fontsize>
+<a href="../agenda#data-curation-training-event"><font size="4">Training Event</font></a>  
+
+<a href="../agenda#community-building-forum"><font size="4">Community-Building Forum</BIG></font>
 
 ## <a name="data-curation-training-event"></a>Data Curation Training Event
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
