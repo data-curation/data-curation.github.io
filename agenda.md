@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-## Training Event
+## Data Curation Training Event
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Wednesday, 16-October, 2019
@@ -91,28 +91,97 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Thursday, 17-October, 2019
+<table>
+  <thead>
+    <tr>
+	<th>Time</th>
+	<th>Event</th>
+	<th>Presenter(s)</th>
+    </tr>
+  </thead>	
+<tbody>
+    <tr>
+	<td>1230 - 1300</td>
+	<td colspan="2"><strong>Registration & Coffee</strong></td>
+    </tr>
+    <tr>
+        <td>1300</td>
+        <td>Welcome & Opening Remarks</td>
+	<td>Lee Wilson, Portage Network & Jay Brodeur, McMaster University</td>
+    </tr>
+    <tr>
+    	<td>1300 - 1400</td>
+    	<td>Opening Plenary: The Canadian DRI Landscape</td>
+    	<td>Jeff Moon, Portage Network</td>
+    </tr>
+    <tr>
+    	<td>1400 - 1500</td>
+    	<td>Panel Discussion: DRI, RDM, & The Role of Data Curation</td>
+    	<td>Mark Leggott, Research Data Canada, Matthew Lucas, SSHRC, & Jeff Moon, Portage Network </td>
+    </tr>
+    <tr>
+	 <td>1500 - 1515</td>
+	 <td colspan="2"><strong>Break</strong></td>
+    </tr>
+    <tr>	
+	<td>1515 - 1615</td>
+    	<td>The Data Curation Network</td>
+    	<td>Lisa Johnston, University of Minnesota, & Cynthia Hudson Vitale, Penn State University</td>
+    </tr>
+    <tr>	
+	<td>1615 - 1645</td>
+    	<td>Day 1 Wrap-up; Day 2 Preparation</td>
+    	<td>Lee Wilson, Portage Network & Jay Brodeur, McMaster University</td>
+    </tr>
+</tbody>
+</table>
 
 ### Day 2: Friday, 18-October, 2019
-
-<!--   
-      <td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
-			<td><a href="../abstracts#workshop1">Hackfest</a></td>
-		</tr>
-		<tr>
-			<td>1130-1200</td>
-			<td>Audrie Schell &amp Julie Niven</td>
-			<td>Tour of McMaster University Library Preservation Lab</td>
-		</tr>
-		<tr>
-			<td>1330-1600</td>
-			<td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
-			<td><a href="../abstracts#workshop1">Hackfest</a></td>
-		</tr>
-		<tr>
-			<td>1800</td>
-			<td>–</td>
-			<td>Icebreaker: <a href="https://www.phoenixmcmaster.com/">The Phoenix CraftHouse &amp; Grill, McMaster University</a></td>
-		</tr>
-	</tbody>
+<table>
+  <thead>
+    <tr>
+	<th>Time</th>
+	<th>Event</th>
+	<th>Presenter(s)</th>
+    </tr>
+  </thead>	
+<tbody>
+    <tr>
+	<td>0830 - 0900</td>
+	<td colspan="2"><strong>Breakfast & Coffee</strong></td>
+    </tr>
+    <tr>
+        <td>0900 - 0945</td>
+        <td>National Repository Updates</td>
+	<td>Lee Wilson, Portage Network, Meghan Goodchild, Scholars Portal</td>
+    </tr>
+    <tr>
+    	<td>0945 - 1030</td>
+    	<td>A Window Into the Domains</td>
+    	<td>Reyna Jenkyns, Ocean Networks Canada, & Brad Covey, St. Lawrence Global Observatory</td>
+    </tr>
+    <tr>
+	 <td>1030 - 1045</td>
+	 <td colspan="2"><strong>Break</strong></td>
+    </tr>
+    <tr>
+    	<td>1045 - 1200</td>
+    	<td>Breakout Session 1: Data Curation Needs and Requirements</td>
+    	<td></td>
+    </tr>	
+    <tr>	
+	<td>1200 - 1300</td>
+	<td colspan="2"><strong>Break</strong></td>
+    </tr>
+    <tr>	
+	<td>1300 - 1430</td>
+    	<td>Breakout Session 2: Visioning a National Approach to Data Curation</td>
+    	<td></td>
+    </tr>
+    <tr>	
+	<td>1430 - 1530</td>
+    	<td>Final Discussions and Closing Remarks</td>
+    	<td></td>
+    </tr>
+</tbody>
 </table>
--->
