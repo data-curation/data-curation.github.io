@@ -4,9 +4,10 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<a href="../agenda#Data Curation Training Event"><h2>Training Event</h2></a>
+<a href="../agenda#data-curation-training-event"><fontsize="4">Training Event</fontsize></a>
+<a href="../agenda#community-building-forum"><fontsize="4">Community-Building Forum</BIG></fontsize>
 
-## Data Curation Training Event
+## <a name="data-curation-training-event"></a>Data Curation Training Event
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Wednesday, 16-October, 2019
@@ -89,7 +90,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
   </tbody>
 </table>
 
-## Community Building Forum
+## <a name="community-building-forum"></a> Community Building Forum
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Thursday, 17-October, 2019
