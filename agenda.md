@@ -91,6 +91,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 ### Day 1: Thursday, 17-October, 2019
+
 <table>
   <thead>
     <tr>
@@ -99,7 +100,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<th>Presenter(s)</th>
     </tr>
   </thead>	
-<tbody>
+  <tbody>
     <tr>
 	<td>1230 - 1300</td>
 	<td colspan="2"><strong>Registration & Coffee</strong></td>
@@ -133,10 +134,11 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     	<td>Day 1 Wrap-up; Day 2 Preparation</td>
     	<td>Lee Wilson, Portage Network & Jay Brodeur, McMaster University</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 
 ### Day 2: Friday, 18-October, 2019
+
 <table>
   <thead>
     <tr>
@@ -145,7 +147,7 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
 	<th>Presenter(s)</th>
     </tr>
   </thead>	
-<tbody>
+  <tbody>
     <tr>
 	<td>0830 - 0900</td>
 	<td colspan="2"><strong>Breakfast & Coffee</strong></td>
@@ -183,5 +185,5 @@ Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON
     	<td>Final Discussions and Closing Remarks</td>
     	<td></td>
     </tr>
-</tbody>
+  </tbody>
 </table>
