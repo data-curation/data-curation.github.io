@@ -4,7 +4,7 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<p style="text-align:center;"><a href="#day-1">Day 1: Data Curation Training Event</a> |
+<p style="text-align:center; font-size:20px;"><a href="#day-1">Day 1: Data Curation Training Event</a> |
 <a href="#day-2">Day 2: Data Curation Training Event</a></p>
 <p style="text-align:center;"><a href="#day-2a">Day 1: Community-Building Forum</a> |
 <a href="#day-3">Day 2: Community-Building Forum</a></p>
@@ -27,7 +27,7 @@ permalink: /agenda/
   </thead>	
 <tbody>
     <tr>
-	<td>0830-0900</td>
+	<td>0830 - 0900</td>
 	<td colspan="2"><strong>Registration & Breakfast</strong></td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ permalink: /agenda/
     </tr>
     <tr>	
 	<td></td>
-    	<td>Workshop 2b: CuratingData for Reproducibility</td>
+    	<td>Workshop 2b: Curating Data for Reproducibility</td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
     </tr>
 </tbody>
@@ -113,7 +113,7 @@ permalink: /agenda/
   </thead>	
   <tbody>
     <tr>
-	<td>1230 - 1300</td>
+	<td>1230-1300</td>
 	<td colspan="2"><strong>Registration & Coffee</strong></td>
     </tr>
     <tr>
@@ -162,7 +162,7 @@ permalink: /agenda/
   </thead>	
   <tbody>
     <tr>
-	<td>0830 - 0900</td>
+	<td>0830-0900</td>
 	<td colspan="2"><strong>Breakfast & Coffee</strong></td>
     </tr>
     <tr>
