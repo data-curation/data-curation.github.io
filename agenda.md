@@ -4,9 +4,9 @@ title: Agenda
 permalink: /agenda/
 ---
 
-<p style="text-align:center; font-size:20px;"><a href="#day-1">Day 1: Data Curation Training Event</a> |
+<p style="text-align:center; font-size:1.5em;"><a href="#day-1">Day 1: Data Curation Training Event</a> |
 <a href="#day-2">Day 2: Data Curation Training Event</a></p>
-<p style="text-align:center;"><a href="#day-2a">Day 1: Community-Building Forum</a> |
+<p style="text-align:center; font-size:1.5em;"><a href="#day-2a">Day 1: Community-Building Forum</a> |
 <a href="#day-3">Day 2: Community-Building Forum</a></p>
 <br />
 
