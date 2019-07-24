@@ -47,9 +47,6 @@ $on-laptop:        950px;
     }
 }
 
-@mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
-}
 
 
 // Import partials from `sass_dir` (defaults to `_sass`)
