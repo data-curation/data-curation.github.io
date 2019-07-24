@@ -24,12 +24,13 @@ Facilitators: Shahira Khair, Sandra Sawchuk
 
 This workshop will cover key considerations in preparing data and code to support reproducibility of published results. Participants will gain hands-on practice using open-source tools for curating data and code together. 
 
+--- 
 ## Thursday, 17-October, 2019
 
 ### Workshop Session 3 (0900 - 1130)
 ### Workshop 3a: The DCN CURATE Model
 ### Workshop 3b: Curating Data in Repositories
 
-
+---
 ## Friday, 18-October, 2019
 
