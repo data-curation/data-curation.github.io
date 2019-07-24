@@ -20,14 +20,14 @@ permalink: /agenda/
 <table class="one">
   <thead>
     <tr>
-	<th>Time</th>
-	<th>Event</th>
-	<th>Presenter(s)</th>
+	<th class="time">Time</th>
+	<th class="session">Event</th>
+	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
 <tbody>
     <tr>
-	<td>0830 - 0900</td>
+	<td>0830-0900</td>
 	<td colspan="2"><strong>Registration & Breakfast</strong></td>
     </tr>
     <tr>
@@ -69,9 +69,9 @@ permalink: /agenda/
 <table class="one">
   <thead>
     <tr>
-	<th>Time</th>
-	<th>Event</th>
-	<th>Presenter(s)</th>
+	<th class="time">Time</th>
+	<th class="session">Event</th>
+	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
   <tbody>
@@ -105,10 +105,10 @@ permalink: /agenda/
 
 <table class="one">
   <thead>
-    <tr>
-	<th>Time</th>
-	<th>Event</th>
-	<th>Presenter(s)</th>
+   <tr>
+	<th class="time">Time</th>
+	<th class="session">Event</th>
+	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
   <tbody>
@@ -155,9 +155,9 @@ permalink: /agenda/
 <table class="one">
   <thead>
     <tr>
-	<th>Time</th>
-	<th>Event</th>
-	<th>Presenter(s)</th>
+	<th class="time">Time</th>
+	<th class="session">Event</th>
+	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
   <tbody>
