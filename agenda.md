@@ -29,7 +29,6 @@ permalink: /agenda/
     <tr>
 	<td>0830 - 0900</td>
 	<td><strong>Registration & Breakfast</strong></td>
-	    <td></td>
     </tr>
     <tr>
         <td>0900 - 0910</td>
@@ -49,7 +48,6 @@ permalink: /agenda/
     <tr>
 	 <td>1200 - 1300</td>
 	 <td><strong>Lunch (provided)</strong></td>
-	    <td></td>
     </tr>
     <tr>	
 	<td>1300 - 1600</td>
@@ -80,7 +78,6 @@ permalink: /agenda/
     <tr>
 	<td>0830 - 0900</td>
 	<td><strong>Breakfast</strong></td>
-	    <td></td>
     </tr>
     <tr>
     	<td>0900 - 1130</td>
@@ -118,7 +115,6 @@ permalink: /agenda/
     <tr>
 	<td>1230 - 1300</td>
 	<td><strong>Registration & Coffee</strong></td>
-	    <td></td>
     </tr>
     <tr>
         <td>1300</td>
@@ -138,7 +134,6 @@ permalink: /agenda/
     <tr>
 	 <td>1500 - 1515</td>
 	 <td><strong>Break</strong></td>
-	    <td></td>
     </tr>
     <tr>	
 	<td>1515 - 1615</td>
@@ -169,7 +164,6 @@ permalink: /agenda/
     <tr>
 	<td>0830 - 0900</td>
 	<td ><strong>Breakfast & Coffee</strong></td>
-	    <td></td>
     </tr>
     <tr>
         <td>0900 - 0945</td>
@@ -184,7 +178,6 @@ permalink: /agenda/
     <tr>
 	 <td>1030 - 1045</td>
 	 <td><strong>Break</strong></td>
-	    <td></td>
     </tr>
     <tr>
     	<td>1045 - 1200</td>
@@ -194,7 +187,6 @@ permalink: /agenda/
     <tr>	
 	<td>1200 - 1300</td>
 	<td><strong>Break</strong></td>
-	    <td></td>
     </tr>
     <tr>	
 	<td>1300 - 1430</td>
