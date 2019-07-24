@@ -3,8 +3,8 @@
  */
 .site-header {
     border-top: 0px solid $grey-color-dark;
-    border-bottom: 4px solid $clemson-orange;
-    min-height: $spacing-unit * 1.865;
+	border-bottom: 4px solid $clemson-orange;
+    min-height: 56px;
     background: $clemson-blue;
     // Positioning context for the mobile navigation icon
    position: relative;
@@ -12,8 +12,9 @@
 }
 
 .site-title {
-    @include relative-font-size(1.625);
-    line-height: $base-line-height * $base-font-size * 2.25;
+    font-size: 26px;
+/* 		margin-top: 15px;
+    line-height: 40px; */
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -30,80 +31,45 @@
 }
 }
 
-.site-nav {
-  float: right;
-  line-height: $base-line-height * $base-font-size * 2.25;
-
-  .nav-trigger {
-      display: none;
-  }
-
-  .menu-icon {
-    display: none;
-  }
-
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
-  }
-
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
-    label[for="nav-trigger"] {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 36px;
-      z-index: 2;
-      cursor: pointer;
-    }
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        fill: $grey-color-dark;
-      }
-    }
-
-    input ~ .trigger {
-      clear: both;
-      display: none;
-    }
-
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
-    }
-  }
+.site-header .wrapper {
+	padding-top: 20px;
+	position: relative;
 }
 
+.site-nav ul li a {
+	color: #fff;
+	text-decoration: none;
+}
 
+.site-nav ul {
+
+	text-align: left;
+	float: right;
+	padding-top: 9px;
+	font-size: 95%;
+	letter-spacing: 1px;
+	line-height: 1em;
+	font-weight: 600;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-transform: uppercase;
+		font-family: 'Titillium Web', sans-serif;
+
+}
+
+.site-nav .menu > li {
+	border-bottom: 3px solid transparent;
+	display: inline-block;
+	height: 23px;
+	line-height: normal;
+	margin: 0px 0 0 20px;
+	padding: 0 0 2px 0;
+	position: relative;
+	vertical-align: top;
+}
+
+.site-nav a {
+	display: block;
+        color: #ffffff;
+}
