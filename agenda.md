@@ -10,9 +10,9 @@ permalink: /agenda/
 <a href="#day-3">Day 2: Community-Building Forum</a></p>
 <br />
 
-<p style="text-align:center; font-size:1.15em;">Data Curation Training Event: <a href="#day-1">16-Oct</a> |
+<p style="text-align:center; font-size:1.15em; font-weight: bold">Data Curation Training Event: <a href="#day-1">16-Oct</a> |
 <a href="#day-2">17-Oct</a></p>
-<p style="text-align:center; font-size:1.15em;">Community-Building Forum: <a href="#day-2a">17-Oct</a> |
+<p style="text-align:center; font-size:1.15em; font-weight: bold">Community-Building Forum: <a href="#day-2a">17-Oct</a> |
 <a href="#day-3">18-Oct</a></p>
 <br />
 
