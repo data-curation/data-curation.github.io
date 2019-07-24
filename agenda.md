@@ -76,7 +76,7 @@ permalink: /agenda/
 	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
-  <tbody>
+<tbody>
     <tr>
 	<td>0830 - 0900</td>
 	<td><strong>Breakfast</strong></td>
@@ -97,7 +97,7 @@ permalink: /agenda/
 	 <td>Wrap-up & Closing Remarks</td>
     	 <td>Lee Wilson & Jay Brodeur</td>
     </tr>
-  </tbody>
+</tbody>
 </table>
 
 
@@ -114,7 +114,7 @@ permalink: /agenda/
 	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
-  <tbody>
+<tbody>
     <tr>
 	<td>1230 - 1300</td>
 	<td><strong>Registration & Coffee</strong></td>
@@ -151,7 +151,7 @@ permalink: /agenda/
     	<td>Day 1 Wrap-up; Day 2 Preparation</td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
- </tbody>
+</tbody>
 </table>
 
 
