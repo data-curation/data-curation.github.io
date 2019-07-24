@@ -12,8 +12,8 @@ permalink: /agenda/
 Location: McMaster Continuing Education Centre, [1 James St. North, Hamilton, ON](https://goo.gl/maps/5kK3S6DEB4SJ8SYV8)
 
 <p><a href="#day-1">Day 1: Wednesday 16-October</a> |
-<a href="#day-2">Thursday, 17-October</a> |
-<a href="#day-3">Friday, 18-October</a></p>
+<a href="#day-2">Day 2: Thursday, 17-October</a> |
+<a href="#day-3">Day 3: Friday, 18-October</a></p>
 
 <h3 id="day-1">Day 1: Wednesday, 16-October, 2019</h3>
 
