@@ -78,7 +78,31 @@ li {
     }
 }
 
+/**
+ * Tables
+ */
 
+table{
+	margin-bottom:20px;
+	width:60%;
+}
+
+td,th{
+	padding:5px;
+	border:1px solid #333;
+}
+
+th:empty,
+td:empty{
+	border:none;
+}
+
+th{
+	font-weight:bold;
+}
+
+#one tbody tr:nth-of-type(odd){
+	background:rgba(255,255,136,0.5);
 
 /**
  * Headings
