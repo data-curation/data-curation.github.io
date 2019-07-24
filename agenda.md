@@ -113,7 +113,7 @@ permalink: /agenda/
 
 <table class="one">
   <thead>
-   <tr>
+    <tr>
 	<th class="time">Time</th>
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
