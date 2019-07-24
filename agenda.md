@@ -123,7 +123,7 @@ permalink: /agenda/
     <tr>
         <td>1300</td>
         <td>Welcome & Opening Remarks</td>
-	<td>Lee Wilson, Portage Network & Jay Brodeur, McMaster University</td>
+	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
     	<td>1300 - 1400</td>
@@ -133,7 +133,7 @@ permalink: /agenda/
     <tr>
     	<td>1400 - 1500</td>
     	<td>Panel Discussion: DRI, RDM, & The Role of Data Curation</td>
-    	<td>Mark Leggott, Research Data Canada, Matthew Lucas, SSHRC, & Jeff Moon, Portage Network </td>
+    	<td>Mark Leggott, Matthew Lucas, & Jeff Moon</td>
     </tr>
     <tr>
 	 <td>1500 - 1515</td>
@@ -144,14 +144,14 @@ permalink: /agenda/
     <tr>	
 	<td>1515 - 1615</td>
     	<td>The Data Curation Network</td>
-    	<td>Lisa Johnston, University of Minnesota, & Cynthia Hudson Vitale, Penn State University</td>
+    	<td>Lisa Johnston & Cynthia Hudson Vitale, Data Curation Network</td>
     </tr>
     <tr>	
 	<td>1615 - 1645</td>
     	<td>Day 1 Wrap-up; Day 2 Preparation</td>
-    	<td>Lee Wilson, Portage Network & Jay Brodeur, McMaster University</td>
+    	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
-  </tbody>
+ </tbody>
 </table>
 
 
