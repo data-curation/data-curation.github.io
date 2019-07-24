@@ -94,11 +94,6 @@ td,th{
 	border-bottom: 1px solid #ddd;
 }
 
-th:empty,
-td:empty{
-	border:none;
-}
-
 th{
 	font-weight:bold;
 }
@@ -107,9 +102,11 @@ th{
   width: 15%;
   text-align: center;
 }
+
 .session {
   width: 55%;
 }
+
 .name {
   width: 30%;
 }
