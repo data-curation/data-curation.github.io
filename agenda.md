@@ -94,7 +94,7 @@ permalink: /agenda/
 	<td></td>
     </tr>
     <tr>
-    	<td>0900 - 1130</td>
+    	<td>0900 - 1145</td>
     	<td>Workshop 3a: The DCN CURATE Model</td>
     	<td>Lisa Johnston & Cynthia Hudson Vitale</td>
     </tr>
@@ -104,7 +104,7 @@ permalink: /agenda/
     	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, & Brad Covey</td>
     </tr>
     <tr>
-	 <td>1130 - 1200</td>
+	 <td>1145 - 1200</td>
 	 <td>Wrap-up & Closing Remarks</td>
     	 <td>Lee Wilson & Jay Brodeur</td>
     </tr>
