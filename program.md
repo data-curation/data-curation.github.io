@@ -39,7 +39,7 @@ This workshop will cover key considerations in preparing data and code to suppor
 Description coming soon.
 
 ### Workshop 3b: Curating Data in Repositories
-Description coming soon.
+Data repositories have tended to be viewed simply as infrastructure for data deposit, supporting discovery and appropriate access, but from a curatorial perspective, deposit into a repository is only the beginning. Curation services in support of FAIR datasets are increasingly recognized as an essential part of data deposit and the broader data management life cycle. This session will describe how domain and general repositories are meeting researcher needs. Various repository options will be discussed, along with their networks, registries and certifications. With that landscape in mind, specific data curation topics like metadata, persistent identifiers, data licensing and other interoperability considerations will be featured.
 
 ---
 <br />
