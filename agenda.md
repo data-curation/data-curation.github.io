@@ -3,12 +3,13 @@ layout: page
 title: Agenda
 permalink: /agenda/
 ---
-
+<!--
 <p style="text-align:center; font-size:1.15em;"><a href="#day-1">Day 1: Data Curation Training Event</a> |
 <a href="#day-2">Day 2: Data Curation Training Event</a></p>
 <p style="text-align:center; font-size:1.15em;"><a href="#day-2a">Day 1: Community-Building Forum</a> |
 <a href="#day-3">Day 2: Community-Building Forum</a></p>
 <br />
+-->
 
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Data Curation Training Event: <a href="#day-1">16-Oct</a> |
 <a href="#day-2">17-Oct</a></p>
