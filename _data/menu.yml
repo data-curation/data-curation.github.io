@@ -4,11 +4,14 @@
 - title: "Register"
   href: "/register/"
   
-- title: "Contact"
-  href: "/contact/" 
+- title: "Local Info"
+  href: "/local/" 
 
 - title: "Agenda"
   href: "/agenda/" 
 
 - title: "Program"
   href: "/program/"
+
+- title: "Presenters"
+  href: "/presenters/"
