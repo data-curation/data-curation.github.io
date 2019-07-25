@@ -3,7 +3,6 @@ layout: default
 ---
 
 <h1 class="post-title">Canadian Data Curation Forum</h1>
----
 <br />
 
 The Canadian Association of Research Libraries’ Portage Network in collaboration with McMaster University Library will host a SSHRC-funded Canadian Data Curation Forum at McMaster University in Hamilton from <strong>October 16 to 18, 2019</strong>.  
@@ -20,6 +19,7 @@ The Forum will comprise the following events:
 
 <br />
 **[Apply now](../register) to attend!**
+<br />
 <br />
 
 ---
