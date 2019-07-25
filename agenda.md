@@ -44,7 +44,7 @@ permalink: /agenda/
     </tr>
     <tr>
     	<td>0915 - 1200</td>
-    	<td>Workshop 1a: Introduction to R for Social Scientists</td>
+    	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
     	<td>ACENET</td>
     </tr>
     <tr>
