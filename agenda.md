@@ -49,7 +49,7 @@ permalink: /agenda/
     </tr>
     <tr>
     	<td></td>
-    	<td>Workshop 1b: Making Ethical and Effective Data Management Work for You!</td>
+    	<td>Workshop 1b: <a href="../program#workshop-1b-making-ethical-and-effective-data-management-work-for-you">Making Ethical and Effective Data Management Work for You!</a></td>
     	<td>Chandra Kavanagh & James Doiron</td>
     </tr>
     <tr>
@@ -59,12 +59,12 @@ permalink: /agenda/
     </tr>
     <tr>	
 	<td>1300 - 1545</td>
-    	<td>Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github</td>
+    	<td>Workshop 2a: <a href="../program#workshop-2a-data-wrangling-and-versioning-with-openrefine-and-github">Data Wrangling and Versioning with OpenRefine and Github</a></td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>	
 	<td></td>
-    	<td>Workshop 2b: Curating Data for Reproducibility</td>
+    	<td>Workshop 2b: <a href="../program#workshop-2b-curating-data-for-reproducibility">Curating Data for Reproducibility</a></td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
     </tr>
     <tr>
@@ -95,12 +95,12 @@ permalink: /agenda/
     </tr>
     <tr>
     	<td>0900 - 1145</td>
-    	<td>Workshop 3a: The DCN CURATE Model</td>
+	<td>Workshop 3a: <a href="../program#workshop-3a-the-dcn-curate-model">The DCN CURATE Model</a></td>
     	<td>Lisa Johnston & Cynthia Hudson Vitale</td>
     </tr>
     <tr>
     	<td></td>
-    	<td>Workshop 3b: Curating Data in Repositories</td>
+    	<td>Workshop 3b: <a href="../program#workshop-3b-curating-data-in-repositories">Curating Data in Repositories</a></td>
     	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, & Brad Covey</td>
     </tr>
     <tr>
