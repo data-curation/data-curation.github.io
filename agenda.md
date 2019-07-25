@@ -204,7 +204,7 @@ permalink: /agenda/
     </tr>	
     <tr>	
 	<td>1200 - 1300</td>
-	<td><strong>Break</strong></td>
+	<td><strong>Lunch</strong></td>
 	    <td></td>
     </tr>
     <tr>	
