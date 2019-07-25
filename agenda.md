@@ -176,7 +176,7 @@ permalink: /agenda/
 	<th class="name">Presenter(s)</th>
     </tr>
   </thead>	
-  <tbody>
+<tbody>
     <tr>
 	<td>0815 - 0845</td>
 	<td ><strong>Breakfast & Coffee</strong></td>
@@ -217,6 +217,6 @@ permalink: /agenda/
     	<td>Final Discussions and Closing Remarks</td>
     	<td></td>
     </tr>
-  </tbody>
+</tbody>
 </table>
 
