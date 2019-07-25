@@ -22,6 +22,7 @@ The Forum will comprise the following events:
 **[Apply now](../register) to attend!**
 <br />
 
+---
 <h1 class="post-title">News</h1>
 
 <ul class="listing">
