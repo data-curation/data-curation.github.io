@@ -2,11 +2,9 @@
 title: Canadian Data Curation Forum
 email: canadiandatacurationforum@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the site description. It will appear in the document head meta (for
-  Google search results) and in the feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://data-curation.github.io" # the base hostname & protocol for your site
-twitter_username: twitter-username
+twitter_username: portageCARLABRC
 github_username:  data-curation
 
 # Build settings
