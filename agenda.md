@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agenda
+title: Prelinimary Agenda
 permalink: /agenda/
 ---
 <!--
@@ -179,12 +179,12 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>0815 - 0845</td>
-	<td ><strong>Breakfast & Coffee</strong></td>
+	<td><strong>Breakfast & Coffee</strong></td>
 	<td></td>
     </tr>
     <tr>
 	<td>0845 - 0900</td>
-	<td ><strong>Welcome & Day 2 Organization</strong></td>
+	<td><strong>Welcome & Day 2 Organization</strong></td>
 	<td></td>
     </tr>
     <tr>
