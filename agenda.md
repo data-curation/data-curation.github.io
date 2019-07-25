@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Prelinimary Agenda
+title: Preliminary Agenda
 permalink: /agenda/
 ---
 <!--
