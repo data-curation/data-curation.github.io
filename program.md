@@ -10,7 +10,6 @@ permalink: /program/
 ### Workshop 1a: Introduction to R for Social Scientists
 Description coming soon.
 
----
 ### Workshop 1b: Making Ethical and Effective Data Management Work for You
 Facilitators: Chandra Kavanagh, James Doiron
 
@@ -22,7 +21,6 @@ In a world where data are becoming increasingly complex and growing in magnitude
 ### Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github
 Description coming soon.
 
----
 ### Workshop 2b: Curating Data for Reproducibility
 Facilitators: Shahira Khair, Sandra Sawchuk
 
@@ -34,14 +32,15 @@ This workshop will cover key considerations in preparing data and code to suppor
 ### Workshop 3a: The DCN CURATE Model
 Description coming soon.
 
----
 ### Workshop 3b: Curating Data in Repositories
 Description coming soon.
 
-
+---
 # Community-Building Forum
 
-## Day 1 (Thursday, 17-October | 1300 - 1700)
----
-## Day 2 (Friday, 18-October | 0845 - 1530)
+## Session 1 (Thursday, 17-October | 1300 - 1700)
+Description coming soon.
 
+---
+## Session 2 (Friday, 18-October | 0845 - 1530)
+Description coming soon.
