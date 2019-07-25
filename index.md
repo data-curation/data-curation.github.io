@@ -17,7 +17,9 @@ The Forum will comprise the following events:
 
 * The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) will feature a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Attendees will be active participants in building a national data curation road map during and following the event. There is no registration fee associated with the community-building sessions.
 
-[Apply now](../register) to attend!
+<br />
+**[Apply now](../register) to attend!**
+<br />
 
 <h1 class="post-title">News</h1>
 
