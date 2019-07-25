@@ -190,7 +190,7 @@ permalink: /agenda/
     <tr>
         <td>0900 - 1015</td>
         <td>National Repository Updates</td>
-	<td>Lee Wilson, Meghan Goodchild, Brad Covey, Reyna Jenkyns/td>
+	<td>Lee Wilson, Meghan Goodchild, Brad Covey, Reyna Jenkyns</td>
     </tr>
     <tr>
 	 <td>1015 - 1030</td>
