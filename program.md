@@ -42,6 +42,7 @@ Description coming soon.
 Description coming soon.
 
 ---
+<br />
 # Community-Building Forum
 
 <h2 id="cb-1">Session 1 (Thursday, 17-October | 1300 - 1700)</h2>
