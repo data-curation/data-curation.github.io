@@ -101,7 +101,7 @@ permalink: /agenda/
     <tr>
     	<td></td>
     	<td>Workshop 3b: <a href="../program#workshop-3b-curating-data-in-repositories">Curating Data in Repositories</a></td>
-    	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, & Brad Covey</td>
+    	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, & Kaitlin Newson</td>
     </tr>
     <tr>
 	 <td>1145 - 1200</td>
