@@ -38,12 +38,12 @@ permalink: /agenda/
 	    <td></td>
     </tr>
     <tr>
-        <td>0900 - 0910</td>
+        <td>0900 - 0915</td>
         <td>Welcome & Introduction</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
-    	<td>0915 - 1145</td>
+    	<td>0915 - 1200</td>
     	<td>Workshop 1a: Introduction to R for Social Scientists</td>
     	<td>ACENET</td>
     </tr>
@@ -55,10 +55,10 @@ permalink: /agenda/
     <tr>
 	 <td>1200 - 1300</td>
 	 <td><strong>Lunch (provided)</strong></td>
-	    <td></td>
+	 <td></td>
     </tr>
     <tr>	
-	<td>1300 - 1600</td>
+	<td>1300 - 1545</td>
     	<td>Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github</td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
@@ -67,6 +67,11 @@ permalink: /agenda/
     	<td>Workshop 2b: Curating Data for Reproducibility</td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
     </tr>
+    <tr>
+        <td>1545 - 1600</td>
+        <td>Day 1 Wrap-up</td>
+	<td></td>
+    </tr>	
 </tbody>
 </table>
     
@@ -86,7 +91,7 @@ permalink: /agenda/
     <tr>
 	<td>0830 - 0900</td>
 	<td><strong>Breakfast</strong></td>
-	    <td></td>
+	<td></td>
     </tr>
     <tr>
     	<td>0900 - 1130</td>
@@ -127,34 +132,33 @@ permalink: /agenda/
 	    <td></td>
     </tr>
     <tr>
-        <td>1300</td>
-        <td>Welcome & Opening Remarks</td>
+        <td>1300 - 1315</td>
+        <td>Welcome & Introductions</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
-    	<td>1300 - 1400</td>
+    	<td>1315 - 1400</td>
     	<td>Opening Plenary: The Canadian DRI Landscape</td>
     	<td>Jeff Moon, Portage Network</td>
     </tr>
     <tr>
     	<td>1400 - 1500</td>
-    	<td>Panel Discussion: DRI, RDM, & The Role of Data Curation</td>
+    	<td>Panel & Audience Discussion: DRI, RDM, & The Role of Data Curation</td>
     	<td>Mark Leggott, Matthew Lucas, & Jeff Moon</td>
     </tr>
     <tr>
-	 <td>1500 - 1515</td>
-	 <td><strong>Break</strong></td>
-	    <td></td>
-	    
+	 <td>1500 - 1530</td>
+	 <td><strong>Coffee Break</strong></td>
+	 <td></td>
     </tr>
     <tr>	
-	<td>1515 - 1615</td>
+	<td>1530 - 1630</td>
     	<td>The Data Curation Network</td>
     	<td>Lisa Johnston & Cynthia Hudson Vitale, Data Curation Network</td>
     </tr>
     <tr>	
-	<td>1615 - 1645</td>
-    	<td>Day 1 Wrap-up; Day 2 Preparation</td>
+	<td>1630 - 1700</td>
+    	<td>Day 1 Wrap-up</td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
 </tbody>
@@ -174,27 +178,27 @@ permalink: /agenda/
   </thead>	
   <tbody>
     <tr>
-	<td>0830 - 0900</td>
+	<td>0815 - 0845</td>
 	<td ><strong>Breakfast & Coffee</strong></td>
-	    <td></td>
+	<td></td>
     </tr>
     <tr>
-        <td>0900 - 0945</td>
+	<td>0845 - 0900</td>
+	<td ><strong>Welcome & Day 2 Organization</strong></td>
+	<td></td>
+    </tr>
+    <tr>
+        <td>0900 - 1015</td>
         <td>National Repository Updates</td>
-	<td>Lee Wilson, Portage Network, Meghan Goodchild, Scholars Portal</td>
+	<td>Lee Wilson, Meghan Goodchild, Brad Covey, Reyna Jenkyns/td>
     </tr>
     <tr>
-    	<td>0945 - 1030</td>
-    	<td>A Window Into the Domains</td>
-    	<td>Reyna Jenkyns, Ocean Networks Canada, & Brad Covey, St. Lawrence Global Observatory</td>
-    </tr>
-    <tr>
-	 <td>1030 - 1045</td>
+	 <td>1015 - 1030</td>
 	 <td><strong>Break</strong></td>
-	    <td></td>
+	 <td></td>
     </tr>
     <tr>
-    	<td>1045 - 1200</td>
+    	<td>1030 - 1200</td>
     	<td>Breakout Session 1: Data Curation Needs and Requirements</td>
     	<td></td>
     </tr>	
