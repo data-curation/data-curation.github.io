@@ -45,7 +45,7 @@ permalink: /agenda/
     <tr>
     	<td>0915 - 1200</td>
     	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
-    	<td>ACENET</td>
+    	<td>Carepentries Intstructor (TBD)</td>
     </tr>
     <tr>
     	<td></td>
@@ -129,7 +129,7 @@ permalink: /agenda/
     <tr>
 	<td>1230 - 1300</td>
 	<td><strong>Registration & Coffee</strong></td>
-	    <td></td>
+	<td></td>
     </tr>
     <tr>
         <td>1300 - 1315</td>
