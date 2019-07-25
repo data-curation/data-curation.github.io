@@ -9,7 +9,7 @@ permalink: /register/
 <p style="text-align:center; font-size:1.15em">Hamilton, ON</p>
 
 
-# Call for Applicants
+# Call for Applications
 
 The Organizing Committee invites individuals from across Canada to express their interest in attending part or all of the Canadian Data Curation Forum, being held October 16-18, 2019 in Hamilton, Ontario. 
 
