@@ -4,7 +4,8 @@ title: Program
 permalink: /program/
 ---
 
-<p style="text-align:center; font-size:1.15em; font-weight: bold">Data Curation Training Event: <a href="#ws-1">Session 1</a> | <a href="#ws-2">Session 2</a> | <a href="#ws-3">Session 3</a></p>
+<p style="text-align:center; font-size:1.15em; font-weight: bold">Data Curation Training Event: <a href="#ws-1">Session 1</a> | <a href="#ws-2">Session 2</a> | 
+  <a href="#ws-3">Session 3</a></p>
 <p style="text-align:center; font-size:1.15em; font-weight: bold">Community-Building Forum: <a href="#cb-1">Session 1</a> |
 <a href="#cb-2">Session 2</a></p>
 <br />
