@@ -33,12 +33,12 @@ permalink: /agenda/
   </thead>	
 <tbody>
     <tr>
-	<td>0830 - 0900</td>
+	<td>0815 - 0845</td>
 	<td><strong>Registration & Breakfast</strong></td>
 	    <td></td>
     </tr>
     <tr>
-        <td>0900 - 0915</td>
+        <td>0845 - 0915</td>
         <td>Welcome & Introduction</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
