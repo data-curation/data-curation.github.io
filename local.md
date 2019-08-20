@@ -27,10 +27,10 @@ To get from [Pearson Airport](https://www.torontopearson.com/en) (YYZ) to downto
 - If traveling to a downtown hotel (e.g. Staybridge Suites), exit the bus at the Caroline stop (be sure to request the stop) to arrive at the hotel.
 - If traveling directly to One James North, exit the bus at the Summers Lane stop (be sure to request the stop). 
 
-**From Hamilton Airport**
+**From Hamilton Airport**  
 A number of [options](https://flyhamilton.ca/transportation/) are available to travel to downtown Hamilton from the [Hamilton Airport](https://flyhamilton.ca/) (YHM), including taxi, rideshare, and public transit (HSR A-Line). 
 
-**Public Transportation**
+**Public Transportation**  
 Hamilton Street Railway (HSR) services the entire Hamilton area. Plan your trip using [Triplinx](https://www.triplinx.ca/)
 
 **Cycling**  
@@ -43,5 +43,5 @@ Hamilton is home to a variety of urban and rural cycling and recreational trails
 **Waterfalls**  
 Built around and atop the Niagara Escarpment, Hamilton is known as the city of Waterfalls. Find more information from [Tourism Hamilton](https://tourismhamilton.com/hamilton-waterfalls), or see the full [Cascades and waterfalls of Hamilton map](http://www.waterfalls.hamilton.ca/WaterfallMaps/Waterfalls_MainMap_GeoPDF.pdf) from [waterfalls.hamilton.ca](http://www.waterfalls.hamilton.ca/default.asp?id=2).
 
-### Food & Drink
+## Food & Drink
 Hamilton is home to a thriving food scene. You can explore the local offerings through websites such as the [Inlet](http://theinletonline.com/) and [Tourism Hamilton](https://tourismhamilton.com/eat).
