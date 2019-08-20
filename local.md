@@ -31,7 +31,7 @@ To get from [Pearson Airport](https://www.torontopearson.com/en) (YYZ) to downto
 A number of [options](https://flyhamilton.ca/transportation/) are available to travel to downtown Hamilton from the [Hamilton Airport](https://flyhamilton.ca/) (YHM), including taxi, rideshare, and public transit (HSR A-Line). 
 
 **Public Transportation**  
-Hamilton Street Railway (HSR) services the entire Hamilton area. Plan your trip using [Triplinx](https://www.triplinx.ca/)
+Hamilton Street Railway (HSR) services the entire Hamilton area. Plan your trip using [Triplinx](https://www.triplinx.ca/).
 
 **Cycling**  
 [Sobi Hamilton](https://hamilton.socialbicycles.com/) is a vast, affordable, and robust bicycle sharing program that facilitates transportation across the city.
