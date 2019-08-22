@@ -40,6 +40,7 @@ This workshop will cover key considerations in preparing data and code to suppor
 ### Workshop 3a: The DCN CURATE Model
 Facilitators: Lisa Johnston, Cynthia Hudson Vitale
 
+Data curation skills span a wide variety of data types and discipline-specific data formats such as spatial data, code, databases, chemical spectra, 3D images, and genomic sequencing data. Each repository alone cannot reasonably account for all the curation expertise needed. One of the goals of the Data Curation Network is to create and openly share data curation procedures and best practices with the growing data curator professional community. In this workshop we will introduce a set of specialized curation procedures developed by the Data Curation Network called CURATE steps. These standardized checklists help ensure that all datasets submitted to the repository receive consistent treatment. Additionally we will show how this general framework has been put into practice by the community for specific file types/formats via "data curation primers" which are interactive, living documents that detail a specific subject, disciplinary area or curation task and that can be used as a reference to curate research data.
 
 ### Workshop 3b: Curating Data in Repositories
 Facilitators: Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, Kaitlin Newson
