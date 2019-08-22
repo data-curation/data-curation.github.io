@@ -24,8 +24,10 @@ In a world where data are becoming increasingly complex and growing in magnitude
 ---
 <h2 id="ws-2">Workshop Session 2 (Wednesday, 16-October | 1300 - 1545)</h2>
 
-### Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github
-Description coming soon.
+### Workshop 2a: Data Wrangling and Versioning with OpenRefine and GitHub
+Facilitators: Lee Wilson, Jay Brodeur
+
+In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms. 
 
 ### Workshop 2b: Curating Data for Reproducibility
 Facilitators: Shahira Khair, Sandra Sawchuk
@@ -36,10 +38,11 @@ This workshop will cover key considerations in preparing data and code to suppor
 <h2 id="ws-3">Workshop Session 3 (Thursday, 17-October | 0900 - 1145)</h2>
 
 ### Workshop 3a: The DCN CURATE Model
-Description coming soon.
+Facilitators: Lisa Johnston, Cynthia Hudson Vitale
+
 
 ### Workshop 3b: Curating Data in Repositories
-Facilitators: Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, & Kaitlin Newson
+Facilitators: Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, Kaitlin Newson
 
 Data repositories have tended to be viewed simply as infrastructure for data deposit, supporting discovery and appropriate access, but from a curatorial perspective, deposit into a repository is only the beginning. Curation services in support of FAIR datasets are increasingly recognized as an essential part of data deposit and the broader data management life cycle. This session will describe how domain and general repositories are meeting researcher needs. Various repository options will be discussed, along with their networks, registries and certifications. With that landscape in mind, specific data curation topics like metadata, persistent identifiers, data licensing and other interoperability considerations will be featured.
 
