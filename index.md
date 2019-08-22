@@ -13,9 +13,9 @@ The goal of the Forum is to establish a national Community of Practice that will
 
 The Forum will comprise the following events: 
 
-* The Data Curation [Training Event](../agenda#data-curation-training-event) (Wednesday, 16-Oct to Thursday, 17-Oct) will consist of a series of interactive skill-building workshops intended to develop data curation skills in individuals who are responsible for and/or interested in data curation activities. A nominal registration fee will apply to the training event. 
+* **[FULL]** The Data Curation [Training Event](../agenda#data-curation-training-event) (Wednesday, 16-Oct to Thursday, 17-Oct) will consist of a series of interactive skill-building workshops intended to develop data curation skills in individuals who are responsible for and/or interested in data curation activities. A nominal registration fee will apply to the training event. 
 
-* The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) will feature a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Attendees will be active participants in building a national data curation road map during and following the event. There is no registration fee associated with the community-building sessions.
+* **[SPOTS REMAINING]** The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) will feature a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Attendees will be active participants in building a national data curation road map during and following the event. There is no registration fee associated with the community-building sessions.
 
 <br />
 **[Apply now](../register) to attend!**
