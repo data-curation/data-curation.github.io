@@ -19,7 +19,7 @@ The SSHRC-funded Forum will consist of two events:
 
 * **[FULL]** The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) will feature a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Attendees will be active participants in building a national data curation road map during and following the event. There is no registration fee associated with the community-building sessions.
 
-Individuals can use [this application form](https://form.simplesurvey.com/f/s.aspx?s=f211bbb7-29d8-4205-9e2b-1f57e8fe1e1c&lang=EN) to express their interest in attending the Training Event. Applications will be accepted until all spots are full. Successful applicants will be contacted shortly thereafter with registration information. 
+Individuals can use [this application form](https://form.simplesurvey.com/f/s.aspx?s=f211bbb7-29d8-4205-9e2b-1f57e8fe1e1c&lang=EN) to express their interest in attending the Training Event. Applications will be accepted until the end of the day on **Thursday, September 5, 2019**. Successful applicants will be contacted shortly thereafter with registration information. 
 
 A limited amount of travel funding remains for students wishing to attend the event who demonstrate financial need. 
 
