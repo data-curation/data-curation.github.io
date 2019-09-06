@@ -45,7 +45,7 @@ permalink: /agenda/
     <tr>
     	<td>0915 - 1200</td>
     	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
-    	<td>Carpentries Instructor (TBD)</td>
+    	<td>John Simpson, Compute Canada</td>
     </tr>
     <tr>
     	<td></td>
@@ -144,7 +144,7 @@ permalink: /agenda/
     <tr>
     	<td>1400 - 1500</td>
     	<td>Panel & Audience Discussion: DRI, RDM, & The Role of Data Curation</td>
-    	<td>Mark Leggott, Matthew Lucas, & Jeff Moon</td>
+    	<td>Suzanne Board, Mark Leggott, & Jeff Moon</td>
     </tr>
     <tr>
 	 <td>1500 - 1530</td>
