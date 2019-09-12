@@ -13,6 +13,9 @@ James Doiron is the Research Data Management Services Coordinator, University of
 ### Meghan Goodchild
 Meghan Goodchild is the Research Data Management Systems Librarian at Queen’s University and Scholars Portal of the Ontario Council of University Libraries (OCUL). In her role, her time is split between developing research data infrastructure locally at Queen’s and collaborating on initiatives that support OCUL as a whole, including the Scholars Portal Dataverse team. Meghan represents Queen's and Scholars Portal on Expert Groups and Working Groups for the Canadian Association of Research Libraries (CARL)'s Portage Network.
 
+### Reyna Jenkyns
+Reyna Jenkyns is the Data Stewardship Manager at Oceans Networks Canada, a University of Victoria initiative that operates world-leading ocean observatories and data services. Her team is responsible for metadata management, geospatial services, data ingestion, and expedition support.  Currently, she is a board member of the CoreTrustSeal data repository certification organization, a member of the Research Data Canada Standards and Interoperability Committee, and on numerous data-related working groups such as the Deep Ocean Observing Strategy Task Team on Data. She received her Bachelor of Mathematics in the Applied Mathematics Co-operative Program from the University of Waterloo, and her Master of Science in Ocean Physics at the University of Victoria.
+
 ### Shahira Khair
 Shahira Khair is a Data Curation Librarian at the University of Victoria Libraries, where she works with faculty and students to adopt practices and tools to improve the management of their research data throughout its lifecycle. She holds Masters degrees in Science and Information Studies from the University of Ottawa.
 
