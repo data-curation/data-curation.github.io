@@ -31,10 +31,10 @@ Facilitators: Lee Wilson, Jay Brodeur
 
 In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms. 
 
-### Workshop 2b: Curating Data for Reproducibility
+### Workshop 2b: Curating Data Sets for Reproducibility
 Facilitators: Shahira Khair, Sandra Sawchuk
 
-This workshop will cover key considerations in preparing data and code to support reproducibility of published results. Participants will gain hands-on practice using open-source tools for curating data and code together. 
+This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined. 
 
 --- 
 <h2 id="ws-3">Workshop Session 3 (Thursday, 17-October | 0900 - 1145)</h2>
