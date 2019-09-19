@@ -22,6 +22,9 @@ Reyna Jenkyns is the Data Stewardship Manager at Oceans Networks Canada, a Unive
 ### Lisa Johnston
 [Lisa R. Johnston](https://www.lib.umn.edu/about/staff/lisa-johnston) is the principle investigator of the [Data Curation Network](http://datacurationnetwork.org/) and director of the [Data Repository for the University of Minnesota (DRUM)](http://z.umn.edu/drum). Johnston coordinates the library’s efforts around research data management and leads a team of five data curation experts for archiving research data in DRUM. Since 2012, Johnston has also served as the co-director of the University of Minnesota’s institutional repository for research and publications, the [University Digital Conservancy](http://conservancy.umn.edu/). Johnston is the co-editor of Data Information Literacy: Librarians, Data, and the Education of a New Generation of Researchers (2015, Purdue University Press) and editor of Curating Research Data: Practical Strategies for your Digital Repository (2017, ACRL Press).
 
+### Chandra Kavanagh
+Chandra Kavanagh is the Ethics Officer for the Newfoundland and Labrador Health Research Ethics Authority. She is also a PhD candidate in the philosophy department at McMaster University, where she studies biomedical ethics. Chandra’s presentations on political and ethical issues, including ethical digital data management, have received high acclaim across Canada, the United States, Europe and Australia and she has been widely published in both academic and popular media. Chandra has also served as a digital ethics advisor for McMaster’s Research and High Performance Computing Support group.
+
 ### Shahira Khair
 Shahira Khair is a Data Curation Librarian at the University of Victoria Libraries, where she works with faculty and students to adopt practices and tools to improve the management of their research data throughout its lifecycle. She holds Masters degrees in Science and Information Studies from the University of Ottawa.
 
