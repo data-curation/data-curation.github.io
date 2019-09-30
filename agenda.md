@@ -128,7 +128,7 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>1230 - 1300</td>
-	<td><strong>Registration & Coffee</strong></td>
+	<td><strong>Registration</strong></td>
 	<td></td>
     </tr>
     <tr>
