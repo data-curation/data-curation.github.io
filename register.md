@@ -8,7 +8,9 @@ permalink: /register/
 <p style="text-align:center; font-size:1.15em">October 16-18, 2019</p>
 <p style="text-align:center; font-size:1.15em">Hamilton, ON</p>
 
+Registration has now closed. Thank you to all who registered. We look forward to seeing you in October.
 
+<!---
 # Call for Applications
 
 The Organizing Committee, in collaboration with CARL Portage and McMaster University, invites individuals from across Canada to express their interest in attending part or all of the Canadian Data Curation Forum, being held October 16-18, 2019 in Hamilton, Ontario. 
@@ -24,3 +26,4 @@ Individuals can use [this application form](https://form.simplesurvey.com/f/s.as
 A limited amount of travel funding remains for students wishing to attend the event who demonstrate financial need. 
 
 Please send any questions, comments, or requests for more information to [canadiandatacurationforum@gmail.com](canadiandatacurationforum@gmail.com).  
+-->
