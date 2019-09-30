@@ -14,6 +14,7 @@ permalink: /program/
 <h2 id="ws-1">Workshop Session 1 (Wednesday, 16-October | 0915 - 1200)</h2>
 
 ### Workshop 1a: Introduction to R for Social Scientists
+Facilitator: John Simpson
 This is an introduction to R designed for participants with no programming experience.  It will be a modified form of the Data Carpentry workshop “R for Social Scientists”.  The full workshop is designed to take about 6 hours but we will only have 3 hours and so reasonable modifications to fit the available time will be made.  The traditional workshop starts with some basic information about R syntax, the RStudio interface, and then moves through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. 
 
 Participants should bring their own laptop to the session and follow these setup instructions in advance: [https://datacarpentry.org/r-socialsci/setup.html](https://datacarpentry.org/r-socialsci/setup.html).
