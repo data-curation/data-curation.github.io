@@ -218,7 +218,7 @@ permalink: /agenda/
 	 <td></td>
     </tr>
     <tr>	
-	<td>1430 - 1530</td>
+	<td>1445 - 1530</td>
     	<td>Final Discussions and Closing Remarks</td>
     	<td></td>
     </tr>
