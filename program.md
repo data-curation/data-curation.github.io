@@ -58,7 +58,7 @@ Data repositories have tended to be viewed simply as infrastructure for data dep
 <h2 id="cb-1">Session 1 (Thursday, 17-October | 1300 - 1700)</h2>
 
 ### Opening Remarks and Icebreaker 
-**Facilitators:** Lee Wilson, Jay Brodeur  
+**Facilitators:** Lee Wilson, Jay Brodeur
 
 **Description:**
 - Official welcome
@@ -73,18 +73,21 @@ A summary of developments in the Canadian Digital Research Infrastructure (DRI) 
 
 ### Panel & Audience Discussion: DRI, RDM, & The Role of Data Curation
 **Panellists:** Suzanne Board, Mark Leggott, Jeff Moon  
-**Moderator:** Lisa Goddard  
+**Moderator:** Lisa Goddard
+
 **Description:**  
 - Each panelist will provide a 5-7 minute response to the question: “How does your organization view the role of data curation, and how is it addressing needs in this area?”
 - Audience participation (Q&A) and open discussion session
 
 ### The Data Curation Network
-**Speakers:** Cynthia Hudson Vitale, Lisa Johnston  
+**Speakers:** Cynthia Hudson Vitale, Lisa Johnston
+
 **Description:**   
 An overview of the origination, development, and growth of the [Data Curation Network](https://datacurationnetwork.org/) -- a coordinated cross-institution network of data curators and data curation services. 
 
 ### Day 1 Wrap-up Discussion
-**Facilitators:** Lee Wilson, Jay Brodeur  
+**Facilitators:** Lee Wilson, Jay Brodeur
+
 **Description:**  
 Participants will work in small- to medium-sized breakout groups to discuss and respond to the following prompts: 
 - What are the main barriers/challenges to data curation activities within your organization and in your work? 
@@ -94,18 +97,21 @@ Participants will work in small- to medium-sized breakout groups to discuss and 
 <h2 id="cb-2">Session 2 (Friday, 18-October | 0845 - 1530)</h2>
 
 ### Day 2 Organization
-**Facilitators:** Lee Wilson, Jay Brodeur  
+**Facilitators:** Lee Wilson, Jay Brodeur
+
 **Activity Description:**  
 - Summary of day 1 wrap-up discussion
 - Schedule and goals for day 2
 
 ### National Repository Updates
-**Speakers:** Lee Wilson, Meghan Goodchild, Kaitlin Newson, Brad Covey, Reyna Jenkyns  
+**Speakers:** Lee Wilson, Meghan Goodchild, Kaitlin Newson, Brad Covey, Reyna Jenkyns
+
 **Description:**  
 A series of updates about national general- (SP Dataverse, FRDR) and domain-based (CIOOS) repositories, which consider data curation-related requirements and challenges. Audience discussion period to follow.
 
 ### Breakout Session 1: Conceptualizing a National Approach to Data Curation
-**Facilitators:** Lee Wilson, Jay Brodeur, Organizing Committee Members  
+**Facilitators:** Lee Wilson, Jay Brodeur, Organizing Committee Members
+
 **Description:**  
 - Brief discussion of the vision articulated in day 1.
 - Participants will work in medium-sized breakout groups to discuss and respond to the following prompts:
@@ -116,7 +122,8 @@ A series of updates about national general- (SP Dataverse, FRDR) and domain-base
 - Regroup and presentation
 
 ### Breakout Session 2: Model Evaluation & Discussion
-**Facilitators:** Lee Wilson, Jay Brodeur, Organizing Committee Members  
+**Facilitators:** Lee Wilson, Jay Brodeur, Organizing Committee Members
+
 **Description:**  
 - Participants will work in medium-sized breakout groups to evaluate each of the proposed models using the following prompts: 
   1. What are the strengths and weaknesses of this model?
