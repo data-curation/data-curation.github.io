@@ -132,12 +132,12 @@ permalink: /agenda/
 	<td></td>
     </tr>
     <tr>
-        <td>1300 - 1315</td>
+        <td>1300 - 1320</td>
         <td>Welcome & Introductions</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
-    	<td>1315 - 1400</td>
+    	<td>1320 - 1400</td>
     	<td>Opening Plenary: The Canadian DRI Landscape</td>
     	<td>Jeff Moon, Portage Network</td>
     </tr>
@@ -199,7 +199,7 @@ permalink: /agenda/
     </tr>
     <tr>
     	<td>1030 - 1200</td>
-    	<td>Breakout Session 1: Data Curation Needs and Requirements</td>
+    	<td>Breakout Session 1: Conceptualizing a National Approach to Data Curation</td>
     	<td></td>
     </tr>	
     <tr>	
@@ -209,7 +209,7 @@ permalink: /agenda/
     </tr>
     <tr>	
 	<td>1300 - 1430</td>
-    	<td>Breakout Session 2: Visioning a National Approach to Data Curation</td>
+    	<td>Breakout Session 2: Model Evaluation & Discussion</td>
     	<td></td>
     </tr>
     <tr>	
