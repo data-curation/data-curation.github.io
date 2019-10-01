@@ -212,6 +212,11 @@ permalink: /agenda/
     	<td>Breakout Session 2: Model Evaluation & Discussion</td>
     	<td></td>
     </tr>
+	<tr>
+	 <td>1430 - 1445</td>
+	 <td><strong>Break</strong></td>
+	 <td></td>
+    </tr>
     <tr>	
 	<td>1430 - 1530</td>
     	<td>Final Discussions and Closing Remarks</td>
