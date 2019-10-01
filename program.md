@@ -67,7 +67,8 @@ Data repositories have tended to be viewed simply as infrastructure for data dep
 - Ice-breaker activity: What is data curation and how does it support RDM and research, in general?
 
 ### The Canadian Digital Research Infrastructure Landscape
-**Speaker:** Jeff Moon  
+**Speaker:** Jeff Moon
+
 **Description:**  
 A summary of developments in the Canadian Digital Research Infrastructure (DRI) landscape, the state of national support for RDM, and the role of data curation in this ecosystem. 
 
