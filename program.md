@@ -15,6 +15,7 @@ permalink: /program/
 
 ### Workshop 1a: Introduction to R for Social Scientists
 Facilitator: John Simpson
+
 This is an introduction to R designed for participants with no programming experience.  It will be a modified form of the Data Carpentry workshop “R for Social Scientists”.  The full workshop is designed to take about 6 hours but we will only have 3 hours and so reasonable modifications to fit the available time will be made.  The traditional workshop starts with some basic information about R syntax, the RStudio interface, and then moves through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. 
 
 Participants should bring their own laptop to the session and follow these setup instructions in advance: [https://datacarpentry.org/r-socialsci/setup.html](https://datacarpentry.org/r-socialsci/setup.html).
@@ -55,7 +56,22 @@ Data repositories have tended to be viewed simply as infrastructure for data dep
 # Community-Building Forum
 
 <h2 id="cb-1">Session 1 (Thursday, 17-October | 1300 - 1700)</h2>
-Description coming soon.
+### Opening remarks and icebreaker  
+**Facilitators:** Lee Wilson, Jay Brodeur  
+
+**Description:**
+- Official welcome
+- Statement of goals and objectives, agenda, and expectations for participants
+- Summary of the training event
+- Ice-breaker activity: What is data curation and how does it support RDM and research, in general?
+
+### The Canadian Digital Research Infrastructure Landscape
+**Speaker:** Jeff Moon
+
+**Description:**  
+A summary of developments in the Canadian Digital Research Infrastructure (DRI) landscape, the state of national support for RDM, and the role of data curation in this ecosystem. 
+
+
 
 ---
 <h2 id="cb-2">Session 2 (Friday, 18-October | 0845 - 1530)</h2>
