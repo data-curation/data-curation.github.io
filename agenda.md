@@ -144,7 +144,7 @@ permalink: /agenda/
     <tr>
     	<td>1400 - 1500</td>
     	<td>Panel & Audience Discussion: DRI, RDM, & The Role of Data Curation</td>
-    	<td>Suzanne Board, Mark Leggott, & Jeff Moon</td>
+    	<td>Mark Leggott, & Jeff Moon</td>
     </tr>
     <tr>
 	 <td>1500 - 1530</td>
