@@ -73,7 +73,7 @@ Data repositories have tended to be viewed simply as infrastructure for data dep
 A summary of developments in the Canadian Digital Research Infrastructure (DRI) landscape, the state of national support for RDM, and the role of data curation in this ecosystem. 
 
 ### Panel & Audience Discussion: DRI, RDM, & The Role of Data Curation
-**Panellists:** Mark Leggott, Jeff Moon  
+**Panellists:** Alex Clark (UofA), Mark Leggott (RDC), Jeff Moon (CARL Portage)
 **Moderator:** Lisa Goddard
 
 **Description:**  
