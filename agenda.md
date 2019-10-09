@@ -131,7 +131,7 @@ permalink: /agenda/
 <h3 id="day-2a">Day 1: Thursday, 17-October, 2019</h3>
 <p class="post-meta">Location: McMaster Continuing Education Centre, <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">1 James St. North, Hamilton, ON</a></p>
 
-<table class="one">
+<table class="two">
   <thead>
     <tr>
 	<th class="time">Time</th>
@@ -182,7 +182,7 @@ permalink: /agenda/
 <h3 id="day-3">Day 2: Friday, 18-October, 2019</h3>
 <p class="post-meta">Location: McMaster Continuing Education Centre, <a href="https://goo.gl/maps/5kK3S6DEB4SJ8SYV8">1 James St. North, Hamilton, ON</a></p>
 
-<table class="one">
+<table class="two">
   <thead>
     <tr>
 	<th class="time">Time</th>
