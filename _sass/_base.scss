@@ -99,7 +99,12 @@ th{
 }
 
 .time {
-  width: 15%;
+  width: 10%;
+  text-align: center;
+}
+
+.room {
+  width: 10%;
   text-align: center;
 }
 
@@ -108,7 +113,7 @@ th{
 }
 
 .name {
-  width: 30%;
+  width: 25%;
 }
 
 .one tbody tr:nth-of-type(odd){
