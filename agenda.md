@@ -27,6 +27,7 @@ permalink: /agenda/
   <thead>
     <tr>
 	<th class="time">Time</th>
+	<th class="room">Room</th>    
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
@@ -34,21 +35,25 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>0815 - 0845</td>
+	<td>OJN 212</td>
 	<td><strong>Registration & Breakfast</strong></td>
-	    <td></td>
+	<td></td>
     </tr>
     <tr>
         <td>0845 - 0915</td>
+	<td>OJN 212</td>	    
         <td>Welcome & Introduction</td>
 	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>
     	<td>0915 - 1200</td>
+	<td>OJN 111</td>	    
     	<td>Workshop 1a: <a href="../program#workshop-1a-introduction-to-r-for-social-scientists">Introduction to R for Social Scientists</a></td>
     	<td>John Simpson, Compute Canada</td>
     </tr>
     <tr>
     	<td></td>
+	<td>OJN 212</td>	   
     	<td>Workshop 1b: <a href="../program#workshop-1b-making-ethical-and-effective-data-management-work-for-you">Making Ethical and Effective Data Management Work for You!</a></td>
     	<td>Chandra Kavanagh & James Doiron</td>
     </tr>
@@ -59,16 +64,19 @@ permalink: /agenda/
     </tr>
     <tr>	
 	<td>1300 - 1545</td>
+	<td>OJN 111</td>	    
     	<td>Workshop 2a: <a href="../program#workshop-2a-data-wrangling-and-versioning-with-openrefine-and-github">Data Wrangling and Versioning with OpenRefine and Github</a></td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
     <tr>	
 	<td></td>
+	<td>OJN 212</td>
     	<td>Workshop 2b: <a href="../program#workshop-2b-curating-data-for-reproducibility">Curating Data for Reproducibility</a></td>
     	<td>Sandra Sawchuk & Shahira Khair</td>
     </tr>
     <tr>
         <td>1545 - 1600</td>
+	<td>OJN 212</td>	    
         <td>Day 1 Wrap-up</td>
 	<td></td>
     </tr>	
@@ -83,6 +91,7 @@ permalink: /agenda/
   <thead>
     <tr>
 	<th class="time">Time</th>
+	<th class="room">Room</th>    	 
 	<th class="session">Event</th>
 	<th class="name">Presenter(s)</th>
     </tr>
@@ -95,18 +104,21 @@ permalink: /agenda/
     </tr>
     <tr>
     	<td>0900 - 1145</td>
+	<td>OJN 111</td>
 	<td>Workshop 3a: <a href="../program#workshop-3a-the-dcn-curate-model">The DCN CURATE Model</a></td>
     	<td>Lisa Johnston & Cynthia Hudson Vitale</td>
     </tr>
     <tr>
     	<td></td>
+	<td>OJN 212</td>
     	<td>Workshop 3b: <a href="../program#workshop-3b-curating-data-in-repositories">Curating Data in Repositories</a></td>
     	<td>Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, & Kaitlin Newson</td>
     </tr>
     <tr>
-	 <td>1145 - 1200</td>
-	 <td>Wrap-up & Closing Remarks</td>
-    	 <td>Lee Wilson & Jay Brodeur</td>
+	<td>1145 - 1200</td>
+	<td>OJN 212</td>    
+	<td>Wrap-up & Closing Remarks</td>
+    	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
 </tbody>
 </table>
