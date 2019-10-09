@@ -59,6 +59,7 @@ permalink: /agenda/
     </tr>
     <tr>
 	 <td>1200 - 1300</td>
+	 <td>OJN 212</td>
 	 <td><strong>Lunch (provided)</strong></td>
 	 <td></td>
     </tr>
@@ -99,6 +100,7 @@ permalink: /agenda/
 <tbody>
     <tr>
 	<td>0830 - 0900</td>
+	<td>OJN 212</td>
 	<td><strong>Breakfast</strong></td>
 	<td></td>
     </tr>
