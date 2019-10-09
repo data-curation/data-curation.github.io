@@ -14,14 +14,16 @@ permalink: /program/
 <h2 id="ws-1">Workshop Session 1 (Wednesday, 16-October | 0915 - 1200)</h2>
 
 ### Workshop 1a: Introduction to R for Social Scientists
-Facilitator: John Simpson
+Facilitator: John Simpson  
+Room: OJN 111
 
 This is an introduction to R designed for participants with no programming experience.  It will be a modified form of the Data Carpentry workshop “R for Social Scientists”.  The full workshop is designed to take about 6 hours but we will only have 3 hours and so reasonable modifications to fit the available time will be made.  The traditional workshop starts with some basic information about R syntax, the RStudio interface, and then moves through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. 
 
 Participants should bring their own laptop to the session and follow these setup instructions in advance: [https://datacarpentry.org/r-socialsci/setup.html](https://datacarpentry.org/r-socialsci/setup.html).
 
 ### Workshop 1b: Making Ethical and Effective Data Management Work for You
-Facilitators: Chandra Kavanagh, James Doiron
+Facilitators: Chandra Kavanagh, James Doiron  
+Room: OJN 212
 
 In a world where data are becoming increasingly complex and growing in magnitude, coupled with an evolving research data management (RDM) policy landscape - including impending requirement for formalized data management plans (DMPs) - it can be difficult to know how to effectively manage your data safely and securely. This workshop will highlight best practices in data management to help you employ strategies for safely and ethically managing your data throughout their lifecycle, from collection to curation, and beyond!  Specific supports and services available to you, including the freely available Portage DMP Assistant platform, will be presented.
 
@@ -29,12 +31,14 @@ In a world where data are becoming increasingly complex and growing in magnitude
 <h2 id="ws-2">Workshop Session 2 (Wednesday, 16-October | 1300 - 1545)</h2>
 
 ### Workshop 2a: Data Wrangling and Versioning with OpenRefine and GitHub
-Facilitators: Lee Wilson, Jay Brodeur
+Facilitators: Lee Wilson, Jay Brodeur  
+Room: OJN 111
 
 In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms. 
 
 ### Workshop 2b: Curating Data Sets for Reproducibility
-Facilitators: Shahira Khair, Sandra Sawchuk
+Facilitators: Shahira Khair, Sandra Sawchuk  
+Room: OJN 212
 
 This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined. 
 
@@ -42,12 +46,14 @@ This workshop will cover key considerations for preparing and sharing data and s
 <h2 id="ws-3">Workshop Session 3 (Thursday, 17-October | 0900 - 1145)</h2>
 
 ### Workshop 3a: The DCN CURATE Model
-Facilitators: Lisa Johnston, Cynthia Hudson Vitale
+Facilitators: Lisa Johnston, Cynthia Hudson Vitale  
+Room: OJN 111
 
 Data curation skills span a wide variety of data types and discipline-specific data formats such as spatial data, code, databases, chemical spectra, 3D images, and genomic sequencing data. Each repository alone cannot reasonably account for all the curation expertise needed. One of the goals of the Data Curation Network is to create and openly share data curation procedures and best practices with the growing data curator professional community. In this workshop we will introduce a set of specialized curation procedures developed by the [Data Curation Network](https://datacurationnetwork.org/) called [CURATE](https://datacurationnetwork.org/resources/) steps. These standardized checklists help ensure that all datasets submitted to the repository receive consistent treatment. Additionally we will show how this general framework has been put into practice by the community for specific file types/formats via "data curation [primers](https://datacurationnetwork.org/resources/data-curation-primers/)" which are interactive, living documents that detail a specific subject, disciplinary area or curation task and that can be used as a reference to curate research data.
 
 ### Workshop 3b: Curating Data in Repositories
 Facilitators: Lee Wilson, Reyna Jenkyns, Meghan Goodchild, Brad Covey, Kaitlin Newson
+Room: OJN 212
 
 Data repositories have tended to be viewed simply as infrastructure for data deposit, supporting discovery and appropriate access, but from a curatorial perspective, deposit into a repository is only the beginning. Curation services in support of FAIR datasets are increasingly recognized as an essential part of data deposit and the broader data management life cycle. This session will describe how domain and general repositories are meeting researcher needs. Various repository options will be discussed, along with their networks, registries and certifications. With that landscape in mind, specific data curation topics like metadata, persistent identifiers, data licensing and other interoperability considerations will be featured.
 
