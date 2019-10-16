@@ -35,6 +35,7 @@ Facilitators: Lee Wilson, Jay Brodeur
 Room: OJN 111
 
 In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms. 
+Workshop materials and instructions are available [here](https://data-curation.github.io/cdcf-workshop2A).
 
 ### Workshop 2b: Curating Data Sets for Reproducibility
 Facilitators: Shahira Khair, Sandra Sawchuk  
