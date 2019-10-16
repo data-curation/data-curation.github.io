@@ -34,14 +34,15 @@ In a world where data are becoming increasingly complex and growing in magnitude
 Facilitators: Lee Wilson, Jay Brodeur  
 Room: OJN 111
 
-In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms. 
-Workshop materials and instructions are available [here](https://data-curation.github.io/cdcf-workshop2A).
+In this workshop, participants will use a hands-on approach to build experience and expertise in two important aspects of data curation: data wrangling and versioning. Participants will use [GitHub](https://github.com/) as a means of acquiring, documenting, and versioning research data and code, while learning how to use [Open Refine](http://openrefine.org/) to explore, clean, and transform data into interoperable and reusable forms.  
+[**Link to workshop materials**](https://data-curation.github.io/cdcf-workshop2A)
 
 ### Workshop 2b: Curating Data Sets for Reproducibility
 Facilitators: Shahira Khair, Sandra Sawchuk  
 Room: OJN 212
 
-This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined. 
+This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined.  
+[**Link to workshop materials**](https://research-reuse.github.io/)
 
 --- 
 <h2 id="ws-3">Workshop Session 3 (Thursday, 17-October | 0900 - 1145)</h2>
