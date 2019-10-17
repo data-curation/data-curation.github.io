@@ -172,7 +172,7 @@ permalink: /agenda/
     </tr>
     <tr>	
 	<td>1630 - 1700</td>
-    	<td>Day 1 Wrap-up</td>
+    	<td>Day 1 Wrap-up discussion</td>
     	<td>Lee Wilson & Jay Brodeur</td>
     </tr>
 </tbody>
