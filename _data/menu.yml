@@ -1,12 +1,6 @@
 - title: "About"
   href: "/about/"
 
-- title: "Register"
-  href: "/register/"
-  
-- title: "Local Info"
-  href: "/local/" 
-
 - title: "Agenda"
   href: "/agenda/" 
 
@@ -15,3 +9,6 @@
 
 - title: "Presenters"
   href: "/presenters/"
+
+- title: "Event Materials"
+  href: "/materials/"
