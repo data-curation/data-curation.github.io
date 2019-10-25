@@ -9,11 +9,6 @@ Information to come shortly!
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRBTYQtYBdfn6CyA5Io-_UNdUNg-gN7yY8SOKESKpLOnhF2JsKyLJoslYBernz8OVcxtqpxRWi3iuRa/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+<iframe src="https://drive.google.com/file/d/172My47FLL-kC5RKjX4FmthYWnS2pju8B&embedded=true" width="100%" height="600px" frameborder="0"></iframe>
+
 <iframe src="http://docs.google.com/viewer?url=https://drive.google.com/file/d/172My47FLL-kC5RKjX4FmthYWnS2pju8B&embedded=true" width="100%" height="600px" frameborder="0"></iframe>
-
-
-
-<object data="materials/CDCF - Overview Slides.pdf" type="application/pdf">
-    <iframe src="materials/CDCF - Overview Slides.pdf&embedded=true"></iframe>
-</object>
-
