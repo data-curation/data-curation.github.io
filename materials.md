@@ -13,7 +13,7 @@ Information to come shortly!
 
 
 
-<object data="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" type="application/pdf">
-    <iframe src="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf&embedded=true"></iframe>
+<object data="materials/CDCF - Overview Slides.pdf" type="application/pdf">
+    <iframe src="materials/CDCF - Overview Slides.pdf&embedded=true"></iframe>
 </object>
 
