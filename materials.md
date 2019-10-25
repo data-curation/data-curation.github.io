@@ -10,4 +10,4 @@ Information to come shortly!
 
 https://docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf
 
-<iframe src="https://docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" frameborder="0" width="640" </iframe>
+<iframe src="https://docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf&embed=true" frameborder="0" width="640" </iframe>
