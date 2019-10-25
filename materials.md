@@ -6,11 +6,10 @@ permalink: /materials/
 
 Information to come shortly.
 
+https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf
+
 <html>
 <embed src="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" type="application/pdf" />
 <html/>
   
-<object>
 <embed src="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" width="600px" height="500px" />
-<object/>
-
