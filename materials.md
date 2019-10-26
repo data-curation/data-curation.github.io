@@ -8,7 +8,7 @@ Information to come shortly.
 
 {% include embedpdf.html code="2a5pzfy0wq1vegf/CDCF%20-%20Overview%20Slides.pdf" width="60" height="600" %}
 
-{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" width="60" height="600" %}
+{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/blob/master/matls/CDCF%20-%20Overview%20Slides.pdf" width="60" height="600" %}
 
 
 https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf
