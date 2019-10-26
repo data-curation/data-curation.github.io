@@ -5,12 +5,12 @@ permalink: /materials/
 ---
 
 # Training Event
-**Workshop 1a: Introduction to R for Social Scientists** [(Learn more)](https://datacarpentry.org/r-socialsci/)  
+**Workshop 1a: Introduction to R for Social Scientists** [Learn more](https://datacarpentry.org/r-socialsci/)  
 **Workshop 1b: Making Ethical and Effective Data Management Work for You!**  
-**Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github** [(Workshop webpage)](https://data-curation.github.io/cdcf-workshop2A/)  
-**Workshop 2b: Curating Data for Reproducibility** [(Workshop webpage)](https://research-reuse.github.io/)  
-**Workshop 3a: The DCN CURATE Model** [(Learn more)](https://datacurationnetwork.org/resources/)  
-**Workshop 3b: Curating Data in Repositories** [(Download slides)](https://github.com/data-curation/data-curation.github.io/raw/master/matls/Curating%20data%20in%20Repositories.pdf)  
+**Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github** [Workshop webpage](https://data-curation.github.io/cdcf-workshop2A/)  
+**Workshop 2b: Curating Data for Reproducibility** [Workshop webpage](https://research-reuse.github.io/)  
+**Workshop 3a: The DCN CURATE Model** [Learn more](https://datacurationnetwork.org/resources/)  
+**Workshop 3b: Curating Data in Repositories** [Download slides](https://github.com/data-curation/data-curation.github.io/raw/master/matls/Curating%20data%20in%20Repositories.pdf)  
 
 # Community-Building Forum
 
