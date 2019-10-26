@@ -6,15 +6,11 @@ permalink: /materials/
 
 Information to come shortly.
 
-{% include embedpdf.html code="2a5pzfy0wq1vegf/CDCF%20-%20Overview%20Slides.pdf" width="60" height="600" %}
+{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/raw/master/matls/CDCF%20-%20Overview%20Slides.pdf" width="60" height="400" %}
 
-{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/raw/master/matls/CDCF%20-%20Overview%20Slides.pdf" width="60" height="600" %}
+{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/raw/master/matls/JMoon_Portage_DRI-RDM-Update_CDCF.pdf" width="60" height="400" %}
 
+{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/raw/master/matls/Data%20Curation%20Network%20Portage%202019-10-17.pdf" width="60" height="400" %}
 
-https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf
+{% include embedpdf_github.html url="https://github.com/data-curation/data-curation.github.io/raw/master/matls/National%20Repository%20Updates.pdf" width="60" height="400" %}
 
-<html>
-<embed src="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" type="application/pdf" />
-<html/>
-  
-<embed src="https://github.com/data-curation/data-curation.github.io/blob/master/materials/CDCF%20-%20Overview%20Slides.pdf" width="600px" height="500px" />
