@@ -11,7 +11,7 @@ The goal of the Forum was to establish a national Community of Practice that wil
 
 <br /> 
 
-Thank you to all of those who participated in and facilitated the event.**Event materials can be found [here](../materials)**
+Thank you to all of those who participated in and helped to facilitate the event. **Event materials can be found [here](../materials)**
 
 <br />
 <br />
