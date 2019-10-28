@@ -5,6 +5,8 @@ permalink: /materials/
 ---
 
 # Training Event
+The Data Curation [Training Event](../agenda#data-curation-training-event) (Wednesday, 16-Oct to Thursday, 17-Oct) consisted of a series of interactive skill-building workshops intended to develop data curation skills in individuals who are responsible for and/or interested in data curation activities. Workshop materials are below.
+
 **Workshop 1a: Introduction to R for Social Scientists** [Learn more](https://datacarpentry.org/r-socialsci/)  
 **Workshop 1b: Making Ethical and Effective Data Management Work for You!**  [Workshop webpage](https://data-curation.github.io/cdcf-workshop1B/)  
 **Workshop 2a: Data Wrangling and Versioning with OpenRefine and Github** [Workshop webpage](https://data-curation.github.io/cdcf-workshop2A/)  
@@ -13,6 +15,7 @@ permalink: /materials/
 **Workshop 3b: Curating Data in Repositories** [Download slides](https://github.com/data-curation/data-curation.github.io/raw/master/matls/Curating%20data%20in%20Repositories.pdf)  
 
 # Community-Building Forum
+* The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
 
 ## Introduction and Breakout Sessions
 <div style="position:relative;padding-top:56.25%;">
