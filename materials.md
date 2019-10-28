@@ -15,7 +15,7 @@ The Data Curation [Training Event](../agenda#data-curation-training-event) (Wedn
 **Workshop 3b: Curating Data in Repositories** [Download slides](https://github.com/data-curation/data-curation.github.io/raw/master/matls/Curating%20data%20in%20Repositories.pdf)  
 
 # Community-Building Forum
-* The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
+The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
 
 ## Introduction and Breakout Sessions
 <div style="position:relative;padding-top:56.25%;">
