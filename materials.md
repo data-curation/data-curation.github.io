@@ -30,6 +30,9 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 <br>
 
 ## Opening Plenary: The Canadian Digital Research Infrastructure Landscape
+
+<iframe width="1013" height="570" src="https://www.youtube.com/embed/tbWb8MkOdDY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div style="position:relative;padding-top:56.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/raw/master/matls/JMoon_Portage_DRI-RDM-Update_CDCF.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
