@@ -60,9 +60,9 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 
 
 ## The Data Curation Network	
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/B_jdZ-GHPug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="position:relative;padding-top:56.25%;">
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/B_jdZ-GHPug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 <br>
 <br>
 
