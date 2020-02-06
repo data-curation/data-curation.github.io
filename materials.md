@@ -18,7 +18,7 @@ The Data Curation [Training Event](../agenda#data-curation-training-event) (Wedn
 The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
 
 ## Introduction and Breakout Sessions
-<iframe width="1000" height="562" src="https://www.youtube.com/embed/kLlUII5KXVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/kLlUII5KXVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
 <div style="position:relative;padding-top:56.25%;">
