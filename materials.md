@@ -18,6 +18,8 @@ The Data Curation [Training Event](../agenda#data-curation-training-event) (Wedn
 The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
 
 ## Introduction and Breakout Sessions
+<iframe width="800" height="450" src="https://www.youtube.com/embed/kLlUII5KXVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div style="position:relative;padding-top:56.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/raw/master/matls/CDCF%20-%20Overview%20Slides.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
@@ -29,7 +31,9 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 
 <br>
 
-## Opening Plenary: The Canadian Digital Research Infrastructure Landscape
+## Opening Plenary: The Canadian Digital Research Infrastructure Landscape & Panel Discussion: DRI, RDM, & The Role of Data Curation
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ijvCEAFrll8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div style="position:relative;padding-top:56.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/raw/master/matls/JMoon_Portage_DRI-RDM-Update_CDCF.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
@@ -41,15 +45,9 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 
 <br>
 
-## Panel Discussion: DRI, RDM, & The Role of Data Curation
-Video coming soon.
-<br>
-
----
-
-<br>
-
 ## The Data Curation Network	
+<iframe width="800" height="450" src="https://www.youtube.com/embed/XqLUB0bYIDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <div style="position:relative;padding-top:56.25%;">
 <iframe src="//docs.google.com/viewer?url=https://github.com/data-curation/data-curation.github.io/raw/master/matls/Data%20Curation%20Network%20Portage%202019-10-17.pdf?dl=0&hl=en_US&embedded=true" class="gde-frame" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none;" scrolling="no"></iframe>
 </div>
