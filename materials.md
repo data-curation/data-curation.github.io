@@ -33,7 +33,7 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 <br>
 
 ## Opening Plenary: The Canadian Digital Research Infrastructure Landscape & Panel Discussion: DRI, RDM, & The Role of Data Curation
-<iframe width="800" height="450" src="https://www.youtube.com/embed/ijvCEAFrll8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/ijvCEAFrll8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
 <div style="position:relative;padding-top:56.25%;">
@@ -48,7 +48,7 @@ The Data Curation [Community-Building Forum](../agenda#-community-building-forum
 <br>
 
 ## The Data Curation Network	
-<iframe width="800" height="450" src="https://www.youtube.com/embed/XqLUB0bYIDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/XqLUB0bYIDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Slides
 <div style="position:relative;padding-top:56.25%;">
