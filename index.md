@@ -13,9 +13,12 @@ Thank you to all of those who participated in and helped to facilitate the event
 
 <br />
 <br />
+
 **The final event report with recommendations for a national approach to data curation services in Canada is now available in [English](https://zenodo.org/record/3894935) and [French](https://zenodo.org/record/3895031).**
+
 <br />
 <br />
+
 **Event materials can be found [here.](../materials).**
 
 <br />
