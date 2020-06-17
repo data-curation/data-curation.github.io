@@ -17,6 +17,9 @@ The Data Curation [Training Event](../agenda#data-curation-training-event) (Wedn
 # Community-Building Forum
 The Data Curation [Community-Building Forum](../agenda#-community-building-forum) (Thursday 17-Oct to Friday, 18-Oct) featured a variety of plenary and discussion sessions intended to build a vision for a national approach to data curation in Canada. Relevant materials from the event are below.
 
+## Event Report and Recommendations
+The final event report and recommendations for a national approach to data curation services in Canada is now available in [English](https://zenodo.org/record/3894935) and [French](https://zenodo.org/record/3895031).
+
 ## Introduction and Breakout Sessions
 <iframe width="900" height="506" src="https://www.youtube.com/embed/kLlUII5KXVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
