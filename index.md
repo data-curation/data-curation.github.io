@@ -9,6 +9,7 @@ The Canadian Association of Research Libraries’ Portage Network in collaborati
 
 The goal of the Forum was to establish a national Community of Practice that will catalyze the development/adoption of data curation standards, practices, tools, and skills within and across disciplines and institutions. It brought together library data specialists, research data managers, and discipline and functional experts from a range of institutions and organizations. The Forum integrated a variety of keynote talks, discussions, and workshops to with the objectives of a) facilitating communication and collaboration around data curation practices and standards, and b) developing skill and training resources.
 <br /> 
+
 Thank you to all of those who participated in and helped to facilitate the event. 
 
 <br />
